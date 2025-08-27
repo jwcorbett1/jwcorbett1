@@ -1,8 +1,6 @@
-<!--
-**jwcorbett1/jwcorbett1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **jwcorbett1/jwcorbett1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,10 +13,12 @@ Here are some ideas to get you started:
 
 # About Me
 
-I have a Bachelor of Arts in Philosophy, which has proven exactly as useful as everyone told me it would be.
+I have worked as a contractor for the North Carolina Department of Transportation for the last 10 years.
 
-I work as a contractor for the North Carolina Department of Transportation.  My current duties include:
+My current duties include:
 * developing response plans for upcoming roadwork and special events,
-* maintaining three legacy database systems,
-* creating reporting tools in Excel using Visual Basic and Power Query,
-* and designing, maintaining, and updating a shift update formatter written in HTML and Javascript.
+* maintaining three legacy database systems in coordination with the NC Department of Information Technology,
+* creating reporting tools in Excel using Visual Basic and Power Query which export data from said databases,
+* and designing, maintaining, and updating a shift report formatter written in HTML and Javascript.
+
+I have a Bachelor of Arts in Philosophy, which has proven exactly as useful as everyone told me.
