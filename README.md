@@ -26,7 +26,7 @@ I have a Bachelor of Arts in Philosophy, which has proven exactly as useful as e
 ## Programming Languages
 
 I have done meaningful work in:
-* C (yay!)
+* C  _yay!_
 * C++
 * C#
 * Python
