@@ -29,6 +29,7 @@ I have done meaningful work in:
 * C - a personal favorite
 * C++
 * C#
+* Java
 * Python
 * Javascript
 * Visual Basic
@@ -45,4 +46,4 @@ Other Technologies:
 
 ## Fun Fact
 
-The average number of skeletons inside a human being is either greater than or exactly equal to one, depending on how you define "average".
+The strangest language I have ever worked in was a bytecode scripting language called SimAntics.  It was used in The Sims 2.  I learned the basics of it because I had 300+ mods installed, and some of them didn't want to play nicely together.  I figured out how to override the conflicting functions and merge everything together into a functional mega-mod.
