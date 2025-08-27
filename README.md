@@ -26,7 +26,7 @@ I have a Bachelor of Arts in Philosophy, which has proven exactly as useful as e
 ## Programming Languages
 
 I have done meaningful work in:
-* C - personal favorite
+* C - a personal favorite
 * C++
 * C#
 * Python
@@ -39,5 +39,10 @@ Other Technologies:
 * CSS
 * Power Query
 * Win32 API
+* COM
 * Direct2D
 * XAudio2
+
+## Fun Fact
+
+The average number of skeletons inside a human being is either greater than or exactly equal to one, depending on how you define "average".
