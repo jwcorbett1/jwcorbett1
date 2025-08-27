@@ -23,7 +23,7 @@ My current duties include:
 
 I have a Bachelor of Arts in Philosophy, which has proven exactly as useful as everyone told me.
 
-# Programming Languages
+## Programming Languages
 
 I have done meaningful work in:
 * C (yay!)
