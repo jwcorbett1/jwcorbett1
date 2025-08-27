@@ -33,7 +33,7 @@ I have done meaningful work in:
 * Javascript
 * Visual Basic
 
-### Other Technologies:
+Other Technologies:
 * SQL
 * HTML
 * CSS
