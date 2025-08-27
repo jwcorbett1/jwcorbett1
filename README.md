@@ -18,7 +18,7 @@ I have worked as a contractor for the North Carolina Department of Transportatio
 My current duties include:
 * developing response plans for upcoming roadwork and special events,
 * maintaining three legacy database systems in coordination with the NC Department of Information Technology,
-* creating reporting tools in Excel using Visual Basic and Power Query which export data from said databases,
+* creating tools in Excel using Visual Basic and Power Query which export and organize data from said databases,
 * and designing, maintaining, and updating a shift report formatter written in HTML and Javascript.
 
 I have a Bachelor of Arts in Philosophy, which has proven exactly as useful as everyone told me.
