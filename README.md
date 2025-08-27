@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jwcorbett1/jwcorbett1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About Me
+
+I have a Bachelor of Arts in Philosophy, which has proven exactly as useful as everyone told me it would be.
+
+I work as a contractor for the North Carolina Department of Transportation.  My current duties include:
+* developing response plans for upcoming roadwork and special events,
+* maintaining three legacy database systems,
+* creating reporting tools in Excel using Visual Basic and Power Query,
+* and designing, maintaining, and updating a shift update formatter written in HTML and Javascript.
