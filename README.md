@@ -21,7 +21,7 @@ My current duties include:
 * creating Excel workbooks using Visual Basic and Power Query to export and organize data from said databases,
 * and creating an email report formatter in HTML/CSS/Javascript used by all five State traffic management centers.
 
-I have a Bachelor of Arts in Philosophy - which has proven exactly as useful as everyone told me.
+I have a Bachelor of Arts in Philosophy, which has proven exactly as useful as everyone told me.
 
 ## Programming Languages
 
@@ -45,4 +45,4 @@ Other Technologies:
 
 ## Fun Fact
 
-The average number of skeletons inside a human being is either greater than or exactly equal to one - depending on how you define "average".
+The average number of skeletons inside a human being is either greater than or exactly equal to one, depending on how you define "average".
