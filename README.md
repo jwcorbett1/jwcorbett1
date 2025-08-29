@@ -17,7 +17,7 @@ My current duties include:
 * developing response plans to utilize ITS devices for upcoming roadwork and special events,
 * maintaining three legacy database systems in coordination with the NC Department of Information Technology,
 * creating Excel workbooks using Visual Basic and Power Query to export and organize data from said databases,
-* and creating an email report formatter in HTML/CSS/Javascript used by all five State traffic management centers.
+* and developing an email report formatter in HTML/CSS/Javascript used by all five State traffic management centers.
 
 I have a Bachelor of Arts in Philosophy, which has proven exactly as useful as everyone told me.
 
