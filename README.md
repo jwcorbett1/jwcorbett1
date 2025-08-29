@@ -44,4 +44,4 @@ Other Technologies:
 
 ## Fun Fact
 
-The strangest language I have ever worked in was a bytecode scripting language EA used in "The Sims 2" called SimAntics.  At the time, I had 300+ mods and some of them stopped playing nicely together.  Rather than choose which mods to remove, I learned just enough SimAntics to locate, override, and merge the conflicting functions so I could keep using all of my mods together.
+The strangest language I have ever worked in was a bytecode scripting language EA used in "The Sims 2" called SimAntics.  At the time, I had 300+ mods and some of them stopped playing nicely together.  Rather than choose which mods to remove, I learned just enough SimAntics to locate, override, and merge the conflicting functions so I could keep using all of the mods.
