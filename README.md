@@ -32,5 +32,5 @@ The strangest language I have worked in is SimAntics, a bytecode scripting langu
 
 ## Repositories
 
-* Shift-Update-Template - I created a local website in HTML/CSS/Javascript to enforce a consistent end-of-shift report structure across 24/7 operations.
-* [ICM-Device-Test-Daily-Report](https://github.com/jwcorbett1/ICM-Device-Test-Daily-Report) - I created a configurable status report generator in Excel using Visual Basic and Power Query for monitoring critical ITS device uptimes.
+* [Shift Update Template](https://github.com/jwcorbett1/Shift-Update-Template) - I created a local website in HTML/CSS/Javascript to enforce a consistent end-of-shift report structure across 24/7 operations.
+* [ICM Device Test Daily Report](https://github.com/jwcorbett1/ICM-Device-Test-Daily-Report) - I created a configurable status report generator in Excel using Visual Basic and Power Query for monitoring critical ITS device uptimes.
