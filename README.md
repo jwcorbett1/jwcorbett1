@@ -16,7 +16,7 @@ I am a philosophy graduate with experience in practical programming and guiding 
 I have been a consultant for the North Carolina Department of Transportation for over a decade, with duties including:
 * maintaining legacy databases in coordination with the NC Department of Information Technology,
 * developing and maintaining a library of macro-enabled Excel workbooks to fetch data from databases using Visual Basic and Power Query,
-* developing, maintaining, and expanding an email report formatter in HTML/CSS/Javascript used by all State-level traffic management centers.
+* developing, maintaining, and expanding an end-of-shift report formatter in HTML/CSS/Javascript used by all State-level traffic management centers.
 
 ## Programming Languages & Technologies
 
