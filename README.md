@@ -11,7 +11,7 @@
 
 # About Me
 
-I am a philosophy graduate with experience in practical programming and guiding projects from concept to deployment.  My goal is to become a full-stack developer for real-world tools and applications.
+I am a philosophy graduate with experience in practical programming and guiding projects from concept to deployment.  My goal is to become a professional full-stack developer for real-world tools and applications.
 
 I have been a consultant for the North Carolina Department of Transportation for over a decade, with duties including:
 * maintaining legacy databases in coordination with the NC Department of Information Technology,
