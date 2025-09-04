@@ -26,7 +26,7 @@ I have done meaningful work in:
 * SQL, Power Query, and Visual Basic
 * Win32 API, COM (Component Object Model), Direct2D, and XAudio2
 
-## Fun Fact
+### Fun Fact
 
 The strangest language I have worked in is SimAntics, a bytecode scripting language EA used in "The Sims 2".  At the time, I had 300+ mods and some of them stopped playing nicely together.  Rather than choose which mods to remove, I learned enough SimAntics to locate and override/merge the conflicting functions so I could keep using all of the mods.
 
