@@ -17,6 +17,7 @@ I have been a consultant for the North Carolina Department of Transportation for
 * maintaining legacy databases in coordination with the NC Department of Information Technology,
 * developing and maintaining a library of macro-enabled Excel workbooks to fetch data from databases using Visual Basic and Power Query,
 * developing, maintaining, and expanding an [end-of-shift report formatter](https://github.com/jwcorbett1/Shift-Update-Template) in HTML/CSS/Javascript used by all State-level traffic management centers.
+* creating Python scripts to automate recurring tasks such as downloading data to support meeting FHWA reporting requirements.
 
 ## Programming Languages & Technologies
 
@@ -36,3 +37,4 @@ The strangest language I have worked in is SimAntics, a bytecode scripting langu
 * [Shift Update Template](https://github.com/jwcorbett1/Shift-Update-Template) - I created a local website in HTML/CSS/Javascript to enforce a consistent end-of-shift report structure across 24/7 operations.
 * [ICM Device Test Daily Report](https://github.com/jwcorbett1/ICM-Device-Test-Daily-Report) - I created a configurable status report generator in Excel using Visual Basic and Power Query for monitoring critical ITS device uptimes.
 * [ICM Response Database (Front End)](https://github.com/jwcorbett1/ICM-Response-Database-Front-End) - I optimized the front end of a legacy Access database which returns pre-planned responses for crashes in ICM zones.
+* [ClearGuide Downloader](https://github.com/jwcorbett1/ClearGuide-Downloader) - I automated downloading traffic data from an external website using the OAuth 2.0 process in Python.
